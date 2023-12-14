@@ -266,6 +266,6 @@ def main():
     # plot slider and accompanying information based on slider
     slider(dfBuildingViolations)
 
-
-if __name__ == "__main__":
-    main()
+main()
+# if __name__ == "__main__":
+#     main()
